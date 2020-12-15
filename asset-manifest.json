@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portafolio-plantilla-react/static/css/main.98e2b360.chunk.css",
+    "main.js": "/portafolio-plantilla-react/static/js/main.a0542c90.chunk.js",
+    "main.js.map": "/portafolio-plantilla-react/static/js/main.a0542c90.chunk.js.map",
+    "runtime-main.js": "/portafolio-plantilla-react/static/js/runtime-main.43cbfacc.js",
+    "runtime-main.js.map": "/portafolio-plantilla-react/static/js/runtime-main.43cbfacc.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/portafolio-plantilla-react/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.34a40f8c.chunk.js": "/portafolio-plantilla-react/static/js/2.34a40f8c.chunk.js",
+    "static/js/2.34a40f8c.chunk.js.map": "/portafolio-plantilla-react/static/js/2.34a40f8c.chunk.js.map",
+    "index.html": "/portafolio-plantilla-react/index.html",
+    "precache-manifest.e40d92dae89655722f8fae94e5243d13.js": "/portafolio-plantilla-react/precache-manifest.e40d92dae89655722f8fae94e5243d13.js",
+    "service-worker.js": "/portafolio-plantilla-react/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/portafolio-plantilla-react/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.98e2b360.chunk.css.map": "/portafolio-plantilla-react/static/css/main.98e2b360.chunk.css.map",
+    "static/js/2.34a40f8c.chunk.js.LICENSE.txt": "/portafolio-plantilla-react/static/js/2.34a40f8c.chunk.js.LICENSE.txt",
+    "static/media/error-404-monochrome.svg": "/portafolio-plantilla-react/static/media/error-404-monochrome.65143a02.svg",
+    "static/media/logo.svg": "/portafolio-plantilla-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43cbfacc.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.34a40f8c.chunk.js",
+    "static/css/main.98e2b360.chunk.css",
+    "static/js/main.a0542c90.chunk.js"
+  ]
+}
